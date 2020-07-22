@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter - Rishabh Priyadarshi](https://twitter.com/rishabhp_)
 
 - 😄 Pronouns: He/His
-<!--
-- ⚡ Fun fact: ...
--->
+
+- ⚡ Fun fact: I am a Formula 1, Football :soccer: and Tennis :tennis: fan.
 
 
