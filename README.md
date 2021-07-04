@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-🌱 I’m currently learning Go
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter - Rishabh Priyadarshi](https://twitter.com/rishabhp_)
 
 - 😄 Pronouns: He/His
+
+- 🌱 I’m currently learning Go
 
 - ⚡ Fun fact: I like Formula 1, Football :soccer: and Tennis :tennis:
 
