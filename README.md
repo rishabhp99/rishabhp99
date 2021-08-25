@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/His
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Kotlin
 
 - ⚡ Fun fact: I like Formula 1, Football :soccer: and Tennis :tennis:
 
